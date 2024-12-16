@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "builds/cyte-09/cyte-09.md",
+                "file": "primary/sybaris/sybaris - incarnon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cyte-09"
+              "title": "sybaris - incarnon"
             }
           }
         ]
@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "primary/sybaris/sybaris - incarnon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for sybaris - incarnon"
             }
           },
           {
@@ -153,12 +154,12 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,12 +175,43 @@
   },
   "active": "63bf9e02969f0221",
   "lastOpenFiles": [
-    "Pasted image 20241216172146.png",
-    "Pasted image 20241216172136.png",
-    "warframe/builds/cyte-09/cyte-09.md",
-    "warframe/builds/cyte-09",
-    "Untitled",
-    "warframe/builds",
-    "warframe"
+    "warframe/saryn/saryn - gloom.md",
+    "companion/shade/shade - invis.md",
+    "companion",
+    "melee",
+    "secondary",
+    "primary",
+    "warframe",
+    "Pasted image 20241216180708.png",
+    "warframe/xaku/xaku - guns.md",
+    "companion/shade",
+    "Pasted image 20241216180615.png",
+    "builds.md",
+    "warframe/xaku",
+    "primary/trumna/trumna - heat dot.md",
+    "Pasted image 20241216180521.png",
+    "primary/trumna/trumna - direct dmg.md",
+    "Pasted image 20241216180518.png",
+    "secondary/ocucor/ocucor - tentacles.md",
+    "primary/trumna",
+    "Pasted image 20241216180418.png",
+    "primary/sybaris/sybaris - incarnon.md",
+    "warframe/kullervo/kullervo - slam.md",
+    "melee/dual icor/dual icor - incarnon.md",
+    "warframe/nyx/nyx - assimilate.md",
+    "warframe/mag/mag - nourish.md",
+    "primary/dread/dread - incarnon.md",
+    "warframe/cyte-09/cyte - snipe.md",
+    "Pasted image 20241216175629.png",
+    "primary/dread",
+    "Pasted image 20241216175549.png",
+    "warframe/mag",
+    "builds/Untitled.md",
+    "Pasted image 20241216175442.png",
+    "builds/saryn/dual ichor.md",
+    "builds/saryn/sybaris.md",
+    "Pasted image 20241216175009.png",
+    "Pasted image 20241216174954.png",
+    "warframe/builds/cyte-09/cyte-09.md"
   ]
 }
