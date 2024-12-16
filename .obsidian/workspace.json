@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1b7c2b17333b1c0c",
+        "id": "f310e30e59a4e8fe",
         "type": "tabs",
         "children": [
           {
-            "id": "63bf9e02969f0221",
+            "id": "1c8c6d72b9ae2dba",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
                 "file": "builds.md",
                 "kanbanViewState": {
-                  "kanban-plugin": "board",
+                  "kanban-plugin": "list",
                   "list-collapse": [
                     false,
                     false,
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 263.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,47 +180,52 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "63bf9e02969f0221",
+  "active": "1c8c6d72b9ae2dba",
   "lastOpenFiles": [
+    "builds.md",
+    "melee/magistar/magistar - slam.md",
+    "melee/magistar/Pasted image 20241216182537.png",
+    "warframe/koumei/koumei - roar.md",
+    "melee/magistar",
+    "warframe/koumei/Pasted image 20241216182429.png",
+    "companion/oxylus/oxylus - fishing.md",
+    "warframe/koumei",
+    "companion/oxylus/Pasted image 20241216182341.png",
+    "companion/hound/hound - around.md",
+    "companion/oxylus",
+    "companion/hound/Pasted image 20241216182318.png",
+    "companion/adarza/adarza - crit cat.md",
+    "companion/hound",
+    "companion/adarza/Pasted image 20241216182227.png",
+    "companion/wyrm/wyrm - status immunity.md",
+    "companion/adarza",
+    "companion/nautilus/nautilus - dmg.md",
+    "companion/tazicor/tazicor - freeze dmg.md",
+    "companion/tazicor/Pasted image 20241216182138.png",
+    "companion/tazicor",
+    "companion/wyrm/Pasted image 20241216182110.png",
+    "companion/sahasa/sahasa - digspenser.md",
+    "companion/wyrm",
+    "companion/sahasa/Pasted image 20241216182051.png",
+    "companion/diriga/diriga - free ability.md",
+    "companion/sahasa",
+    "companion/diriga/Pasted image 20241216182020.png",
+    "companion/deathcube/dethcube - shield boost energy generator.md",
+    "companion/diriga",
+    "companion/deathcube/Pasted image 20241216181954.png",
+    "companion/panzer/panzer - uni.md",
+    "companion/deathcube",
+    "primary/stahlta/stahlta - deadhead.md",
     "melee/xoris/xoris - heavy.md",
-    "melee/xoris/Pasted image 20241216181323.png",
     "warframe/nova/nova - null star.md",
-    "melee/xoris",
-    "warframe/nova/Pasted image 20241216181230.png",
-    "warframe/nova",
-    "companion/shade/Pasted image 20241216180708.png",
-    "warframe/xaku/Pasted image 20241216180615.png",
-    "primary/trumna/Pasted image 20241216180521.png",
-    "primary/trumna/Pasted image 20241216180518.png",
-    "secondary/ocucor/Pasted image 20241216180418.png",
-    "primary/dread/Pasted image 20241216175629.png",
-    "warframe/mag/Pasted image 20241216175549.png",
-    "secondary/ocucor/Pasted image 20241216175442.png",
     "warframe/cyte-09/cyte - snipe.md",
     "primary/sybaris/sybaris - incarnon.md",
     "warframe/saryn/saryn - gloom.md",
     "companion/shade/shade - invis.md",
-    "companion",
-    "melee",
-    "secondary",
-    "primary",
-    "warframe",
     "warframe/xaku/xaku - guns.md",
-    "companion/shade",
-    "builds.md",
-    "warframe/xaku",
     "primary/trumna/trumna - heat dot.md",
     "primary/trumna/trumna - direct dmg.md",
     "secondary/ocucor/ocucor - tentacles.md",
-    "primary/trumna",
-    "warframe/kullervo/kullervo - slam.md",
-    "melee/dual icor/dual icor - incarnon.md",
-    "warframe/nyx/nyx - assimilate.md",
-    "warframe/mag/mag - nourish.md",
-    "primary/dread/dread - incarnon.md",
-    "builds/Untitled.md",
-    "builds/saryn/dual ichor.md",
-    "builds/saryn/sybaris.md",
-    "warframe/builds/cyte-09/cyte-09.md"
+    "warframe/kullervo/kullervo - slam.md"
   ]
 }

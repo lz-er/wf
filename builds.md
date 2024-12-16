@@ -1,7 +1,5 @@
 ---
-
-kanban-plugin: board
-
+kanban-plugin: list
 ---
 
 ## saved
@@ -29,6 +27,17 @@ kanban-plugin: board
 - [ ] [[dread - incarnon]]
 - [ ] [[ocucor - tentacles]]
 - [ ] [[xoris - heavy]]
+- [ ] [[nova - null star]]
+- [ ] [[shade - invis]]
+- [ ] [[panzer - uni]]
+- [ ] [[tazicor - freeze dmg]]
+- [ ] [[oxylus - fishing]]
+- [ ] [[hound - around]]
+- [ ] [[adarza - crit cat]]
+- [ ] [[wyrm - status immunity]]
+- [ ] [[nautilus - dmg]]
+- [ ] [[diriga - free ability]]
+- [ ] [[dethcube - shield boost energy generator]]
 
 
 

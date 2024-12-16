@@ -2,5 +2,7 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "./",
-  "userIgnoreFilters": null
+  "userIgnoreFilters": [
+    "/\\.(gif|jpe?g|tiff?|png|webp|bmp)$/"
+  ]
 }
