@@ -28,6 +28,7 @@ kanban-plugin: board
 
 - [ ] [[dread - incarnon]]
 - [ ] [[ocucor - tentacles]]
+- [ ] [[xoris - heavy]]
 
 
 
