@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "8db3040270194d11",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b7c2b17333b1c0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63bf9e02969f0221",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e0253808d64f81c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3f74a11cca0be4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db80e6c73598f224",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cf79735e4a987d6f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9f74fb4405b70b23",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a8e4630a85533883",
+    "type": "split",
+    "children": [
+      {
+        "id": "317b99a022253048",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f436c75ad79db4f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "442de83edeb269d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "299912aae3f5f024",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c738361ffb9abeef",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "warframe/builds/cyte-09/cyte-09.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of cyte-09"
+            }
+          },
+          {
+            "id": "4b3a5c34256c7cb4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "db80e6c73598f224",
+  "lastOpenFiles": [
+    "Pasted image 20241216172146.png",
+    "Pasted image 20241216172136.png",
+    "warframe/builds/cyte-09/cyte-09.md",
+    "warframe/builds/cyte-09",
+    "Untitled",
+    "warframe/builds",
+    "warframe"
+  ]
+}
