@@ -11,10 +11,14 @@
             "id": "63bf9e02969f0221",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "builds/cyte-09/cyte-09.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "cyte-09"
             }
           }
         ]
@@ -168,7 +172,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "db80e6c73598f224",
+  "active": "63bf9e02969f0221",
   "lastOpenFiles": [
     "Pasted image 20241216172146.png",
     "Pasted image 20241216172136.png",
