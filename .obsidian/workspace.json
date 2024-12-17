@@ -6,9 +6,10 @@
       {
         "id": "f310e30e59a4e8fe",
         "type": "tabs",
+        "dimension": 17.909663865546218,
         "children": [
           {
-            "id": "1c8c6d72b9ae2dba",
+            "id": "62fe44e4010571c3",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -27,9 +28,16 @@
               "icon": "lucide-trello",
               "title": "builds"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "9b47501c0d25f8c7",
+        "type": "tabs",
+        "dimension": 47.794117647058826,
+        "children": [
           {
-            "id": "62fe44e4010571c3",
+            "id": "3b14b3d30fe5ea04",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,15 +51,15 @@
               "title": "harmony - slam apply"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "b7cdb1877b5dd35a",
+        "id": "74e9ff6a39d019c4",
         "type": "tabs",
+        "dimension": 34.29621848739496,
         "children": [
           {
-            "id": "41999b47e9f03acc",
+            "id": "fca440abc40fe2ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -217,14 +225,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "62fe44e4010571c3",
+  "active": "3b14b3d30fe5ea04",
   "lastOpenFiles": [
     "warframe/rhino/rhino - dark verse.md",
     "harmony - slam apply.md",
+    "builds.md",
     "Pasted image 20241216185733.png",
     "warframe/rhino/Pasted image 20241216185642.png",
     "warframe/rhino",
-    "builds.md",
     "melee/harmony",
     "melee/magistar/magistar - slam.md",
     "melee/magistar/Pasted image 20241216182537.png",
