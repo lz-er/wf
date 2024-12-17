@@ -22,6 +22,7 @@ kanban-plugin: list
 ## building
 
 - [ ] [[mag - nourish]]
+- [ ] [[magistar - slam]]
 
 
 ## finished
