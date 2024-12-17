@@ -42,13 +42,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "melee/magistar/magistar - slam.md",
+                "file": "melee/harmony/harmony - slam apply.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "magistar - slam"
+              "title": "harmony - slam apply"
             }
           }
         ]
@@ -205,10 +205,13 @@
   },
   "active": "3b14b3d30fe5ea04",
   "lastOpenFiles": [
-    "builds.md",
-    "melee/magistar/magistar - slam.md",
-    "harmony - slam apply.md",
+    "melee/harmony/Pasted image 20241217172358.png",
     "warframe/rhino/rhino - dark verse.md",
+    "warframe/rhino/Pasted image 20241217172322.png",
+    "warframe/kullervo/kullervo - slam.md",
+    "melee/magistar/magistar - slam.md",
+    "builds.md",
+    "melee/harmony/harmony - slam apply.md",
     "Pasted image 20241216185733.png",
     "warframe/rhino/Pasted image 20241216185642.png",
     "warframe/rhino",
@@ -235,7 +238,6 @@
     "companion/wyrm/Pasted image 20241216182110.png",
     "companion/sahasa/sahasa - digspenser.md",
     "companion/wyrm",
-    "companion/sahasa/Pasted image 20241216182051.png",
     "companion/diriga/diriga - free ability.md",
     "companion/sahasa",
     "companion/deathcube/dethcube - shield boost energy generator.md",
@@ -248,7 +250,6 @@
     "warframe/saryn/saryn - gloom.md",
     "companion/shade/shade - invis.md",
     "warframe/xaku/xaku - guns.md",
-    "primary/trumna/trumna - heat dot.md",
-    "primary/trumna/trumna - direct dmg.md"
+    "primary/trumna/trumna - heat dot.md"
   ]
 }
