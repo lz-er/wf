@@ -6,7 +6,7 @@
       {
         "id": "f310e30e59a4e8fe",
         "type": "tabs",
-        "dimension": 53.83403361344538,
+        "dimension": 16.587926509186353,
         "children": [
           {
             "id": "62fe44e4010571c3",
@@ -32,9 +32,9 @@
         ]
       },
       {
-        "id": "9b47501c0d25f8c7",
+        "id": "ed2da58bd588de5c",
         "type": "tabs",
-        "dimension": 46.16596638655462,
+        "dimension": 37.270341207349084,
         "children": [
           {
             "id": "3b14b3d30fe5ea04",
@@ -50,7 +50,14 @@
               "icon": "lucide-file",
               "title": "harmony - slam apply"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "9b47501c0d25f8c7",
+        "type": "tabs",
+        "dimension": 46.14173228346456,
+        "children": [
           {
             "id": "1559e58c9f546077",
             "type": "leaf",
@@ -66,8 +73,7 @@
               "title": "nyx - nuke"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
