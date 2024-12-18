@@ -72,13 +72,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "companion/helios/helios - nyx nuke.md",
+                "file": "warframe/nyx/nyx - nuke.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "helios - nyx nuke"
+              "title": "nyx - nuke"
             }
           }
         ],
@@ -236,9 +236,10 @@
   },
   "active": "36c2546b096b708c",
   "lastOpenFiles": [
-    "companion/helios/Pasted image 20241218142023.png",
     "secondary/furis/furis - nyx nuke.md",
     "companion/helios/helios - nyx nuke.md",
+    "companion/helios/Pasted image 20241218142241.png",
+    "companion/helios/Pasted image 20241218142023.png",
     "companion/helios",
     "warframe/nyx/nyx - nuke.md",
     "secondary/furis",
@@ -263,10 +264,8 @@
     "warframe/koumei/Pasted image 20241216182429.png",
     "companion/oxylus/oxylus - fishing.md",
     "warframe/koumei",
-    "companion/oxylus/Pasted image 20241216182341.png",
     "companion/hound/hound - around.md",
     "companion/oxylus",
-    "companion/hound/Pasted image 20241216182318.png",
     "companion/adarza/adarza - crit cat.md",
     "companion/hound",
     "companion/wyrm/wyrm - status immunity.md",
