@@ -1,4 +1,5 @@
 This is some Michelin cooking.
+https://www.youtube.com/watch?v=ODOpj_fppQo
 
 ![[Pasted image 20241218141155.png]]
 >blood altar on 2
@@ -21,4 +22,4 @@ playstyle
 - cast mind control on blood altar
 - (use magus anomaly to drag enemies near)
 - uncast mind control (hold)
-- quickly cast mind control on enemy near
+- quickly cast mind control on closest enemy
