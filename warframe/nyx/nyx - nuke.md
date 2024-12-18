@@ -2,6 +2,7 @@ This is some Michelin cooking.
 
 ![[Pasted image 20241218141155.png]]
 >blood altar on 2
+>5 duration archon shards
 
 use with [[okaina - nyx nuke]] to build status stacks with (dual) heavy attack
 and [[furis - nyx nuke]] for adding heat procs
