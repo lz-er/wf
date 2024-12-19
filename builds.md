@@ -4,7 +4,7 @@ kanban-plugin: list
 
 ---
 
-## saved
+## open
 
 - [ ] [[kullervo - slam]]
 - [ ] [[nyx - assimilate]]
@@ -13,6 +13,7 @@ kanban-plugin: list
 - [ ] [[dual icor - incarnon]]
 - [ ] [[trumna - heat dot]]
 - [ ] [[trumna - direct dmg]]
+- [ ] [[nyx - nuke]]
 
 
 ## farming

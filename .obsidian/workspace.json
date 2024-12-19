@@ -12,21 +12,15 @@
             "id": "62fe44e4010571c3",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "builds.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "list",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "primary/reconifex/reconifex - multishot.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "builds"
+              "icon": "lucide-file",
+              "title": "reconifex - multishot"
             }
           }
         ]
@@ -225,9 +219,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1559e58c9f546077",
+  "active": "62fe44e4010571c3",
   "lastOpenFiles": [
     "builds.md",
+    "primary/reconifex/reconifex - multishot.md",
+    "primary/reconifex",
     "warframe/nyx/nyx - nuke.md",
     "companion/helios/helios - nyx nuke.md",
     "secondary/furis/furis - nyx nuke.md",
@@ -260,7 +256,6 @@
     "companion/adarza/adarza - crit cat.md",
     "companion/hound",
     "companion/wyrm/wyrm - status immunity.md",
-    "companion/adarza",
     "companion/nautilus/nautilus - dmg.md",
     "companion/tazicor/tazicor - freeze dmg.md",
     "companion/sahasa/sahasa - digspenser.md",
