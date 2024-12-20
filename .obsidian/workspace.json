@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "primary/trumna/trumna - heat dot.md",
+                "file": "warframe/zephyr/zephyr - fixation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "trumna - heat dot"
+              "title": "zephyr - fixation"
             }
           }
         ]
@@ -176,6 +176,9 @@
   },
   "active": "f5840926ead1c6b2",
   "lastOpenFiles": [
+    "primary/trumna/trumna - heat dot.md",
+    "warframe/zephyr/zephyr - fixation.md",
+    "warframe/zephyr",
     "primary/trumna/trumna - direct dmg.md",
     "primary/reconifex/reconifex - multishot.md",
     "builds.md",
@@ -210,7 +213,6 @@
     "companion/hound/hound - around.md",
     "companion/oxylus",
     "companion/adarza/adarza - crit cat.md",
-    "companion/hound",
     "companion/wyrm/wyrm - status immunity.md",
     "companion/nautilus/nautilus - dmg.md",
     "companion/tazicor/tazicor - freeze dmg.md",
@@ -219,8 +221,6 @@
     "companion/deathcube/dethcube - shield boost energy generator.md",
     "companion/panzer/panzer - uni.md",
     "primary/stahlta/stahlta - deadhead.md",
-    "melee/xoris/xoris - heavy.md",
-    "warframe/nova/nova - null star.md",
-    "warframe/cyte-09/cyte - snipe.md"
+    "melee/xoris/xoris - heavy.md"
   ]
 }
