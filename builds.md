@@ -11,7 +11,6 @@ kanban-plugin: list
 - [ ] [[saryn - gloom]]
 - [ ] [[cyte - snipe]]
 - [ ] [[dual icor - incarnon]]
-- [ ] [[trumna - heat dot]]
 - [ ] [[trumna - direct dmg]]
 - [ ] [[nyx - nuke]]
 
@@ -22,6 +21,7 @@ kanban-plugin: list
 
 ## building
 
+- [ ] [[trumna - heat dot]]
 - [ ] [[mag - nourish]]
 - [ ] [[magistar - slam]]
 
