@@ -37,8 +37,7 @@
               "title": "profit"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,11 +189,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f518559f5d8745ea",
+  "active": "f5840926ead1c6b2",
   "lastOpenFiles": [
+    "profit.md",
     "Pasted image 20241222202241.png",
     "primary/stahlta/stahlta - deadhead.md",
-    "profit.md",
     "builds.md",
     "melee/harmony/Pasted image 20241216185733.png",
     "warframe/zephyr/zephyr - fixation.md",
@@ -226,7 +225,6 @@
     "melee/magistar/Pasted image 20241216182537.png",
     "warframe/koumei/koumei - roar.md",
     "melee/magistar",
-    "warframe/koumei/Pasted image 20241216182429.png",
     "companion/oxylus/oxylus - fishing.md",
     "warframe/koumei",
     "companion/hound/hound - around.md",
