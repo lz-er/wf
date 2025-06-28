@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "warframe/oraxia/Boodmother.md",
+                "file": "warframe/oraxia/Guns.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -67,7 +67,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Boodmother"
+              "title": "Guns"
             }
           },
           {
@@ -241,8 +241,10 @@
   },
   "active": "3606abc7399f5af2",
   "lastOpenFiles": [
-    "warframe/oraxia/Pasted image 20250628085258.png",
+    "warframe/oraxia/Pasted image 20250628085640.png",
     "warframe/oraxia/Boodmother.md",
+    "warframe/oraxia/Guns.md",
+    "warframe/oraxia/Pasted image 20250628085258.png",
     "warframe/oraxia",
     "warframe/nyx/nyx - nuke.md",
     "bike_food/Bike packing food.md",
@@ -277,7 +279,6 @@
     "warframe/rhino/Pasted image 20241216185642.png",
     "warframe/rhino",
     "melee/harmony",
-    "melee/magistar/Pasted image 20241216182537.png",
     "warframe/koumei/koumei - roar.md",
     "melee/magistar",
     "companion/oxylus/oxylus - fishing.md",
@@ -285,7 +286,6 @@
     "companion/adarza/adarza - crit cat.md",
     "companion/wyrm/wyrm - status immunity.md",
     "companion/nautilus/nautilus - dmg.md",
-    "companion/tazicor/tazicor - freeze dmg.md",
-    "companion/sahasa/sahasa - digspenser.md"
+    "companion/tazicor/tazicor - freeze dmg.md"
   ]
 }
