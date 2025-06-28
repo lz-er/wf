@@ -50,12 +50,24 @@
             "id": "3606abc7399f5af2",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "warframe/oraxia/Boodmother.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "Boodmother"
             }
           },
           {
@@ -229,9 +241,11 @@
   },
   "active": "3606abc7399f5af2",
   "lastOpenFiles": [
+    "warframe/oraxia/Pasted image 20250628085258.png",
+    "warframe/oraxia/Boodmother.md",
+    "warframe/oraxia",
     "warframe/nyx/nyx - nuke.md",
     "bike_food/Bike packing food.md",
-    "Untitled",
     "bike_food",
     "builds.md",
     "primary/stahlta/stahlta - deadhead.md",
@@ -272,8 +286,6 @@
     "companion/wyrm/wyrm - status immunity.md",
     "companion/nautilus/nautilus - dmg.md",
     "companion/tazicor/tazicor - freeze dmg.md",
-    "companion/sahasa/sahasa - digspenser.md",
-    "companion/diriga/diriga - free ability.md",
-    "companion/deathcube/dethcube - shield boost energy generator.md"
+    "companion/sahasa/sahasa - digspenser.md"
   ]
 }
